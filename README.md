@@ -1,1 +1,1 @@
-<h1>Cliquez sur le fichier setup_GenerationProcedural.exe et sur le bouton <button>Download</button></h1
+<h1>Cliquez sur le fichier setup_GenerationProcedural.exe et sur le bouton Download</h1> <button>Download</button>

@@ -1,0 +1,5 @@
+Nous vous recommandons :
+- 1 processeur 2coeurs/4threads
+- 8go de ram
+- 1go de stockage libre (celà dépend du nombre de map sauvegarder)
+- La carte graphique intégrée au processeur suffit

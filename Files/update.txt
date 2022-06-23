@@ -1,0 +1,28 @@
+Beta 0.1 :
+
+- Création du système de génération infini + optimisation
+- Ajout du joueur
+
+V 1.0 :
+
+- Corrections de bug
+- Création installeur
+
+V 1.1 :
+
+- Textures des terrains modifiées
+- Fix bug sur les bords de terrains
+
+Beta 2.0 :
+
+- Génération des arbres
+- Inventaire pour le bois
+
+Beta 2.0.1 :
+
+- Optimisation Inventaire
+
+V 2.0 :
+
+- Modification de l'interface de l'inventaire
+- Optimisation de l'inventaire
